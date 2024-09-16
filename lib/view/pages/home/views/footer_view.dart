@@ -101,7 +101,7 @@ class FooterView extends StatelessWidget {
                                     radius: 3,
                                   ),
                                   Text(
-                                    "   MUZAMMIL HUSSAIN",
+                                    "   ",
                                     style: Theme.of(context)
                                         .textTheme
                                         .bodyLarge
@@ -154,7 +154,7 @@ class FooterView extends StatelessWidget {
                               radius: 3,
                             ),
                             Text(
-                              "   MUZAMMIL HUSSAIN",
+                              "   Cyber HUSSAIN",
                               style: Theme.of(context)
                                   .textTheme
                                   .bodyLarge

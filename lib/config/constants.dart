@@ -8,7 +8,7 @@ class Constants {
 
   static const email = 'isaacchukwuka67@gmail.com';
   static const phoneNumber = '+234 9057469410';
-  static const address = 'Gulberg 2, Lahore, Pakistan';
+  static const address = 'OSAMOR19';
 
   static const linkedInUrl = 'https://www.linkedin.com/in/peter-osamor-isaac-chukwuka-003ab51a4/';
   static const xUrl = 'https://x.com/CyberZik';

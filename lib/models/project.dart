@@ -24,7 +24,7 @@ final List<Project> kProjects = [
     pngPaths: [
       for (int i = 1; i <= 20; i++) "assets/images/project-images/ri-${i}.png",
     ],
-    name: "Firmware for Rushabh Instruments LLC HISTOPRO 810 Slide Dryer",
+    name: "Empower Your Self-Learning Journey with a Wealth of Resources and Personalized Tools. Making Self-Learning Easy",
     description:
         """It’s a Hardware based Android App using the Proculus module to integrate with the HISTOPRO 810 Slide Dryer laboratory ovens. The targeted device has 8 different stations the user can place the sample in any of the stations. We use Serial Communication to periodically fetch the temperature from Hardware and Display / Store in the application. It is developed in modules that can also be integrated with other Flutter applications developed for Rushabh Instruments LLC, reducing the overall time to develop each application.""",
     availablePlatforms: "Android",

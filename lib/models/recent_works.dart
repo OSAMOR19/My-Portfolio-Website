@@ -14,16 +14,15 @@ class RecentWork {
 
   static final List<RecentWork> works = [
     RecentWork(
-        title: "Image Converter: Jpg Png",
+        title: "curratelearn: AI-self learning Guide",
         imagePath: "assets/images/1.png",
-        playStoreUrl:
-            "https://play.google.com/store/apps/details?id=com.emt.image.pdf.jpg.converter&hl=en&gl=US",
-        appStoreUrl:
-            "https://apps.apple.com/us/app/image-converter-jpg-png-heic/id6476975237"),
+        playStoreUrl: "https://curatelearn.com/",
+        appStoreUrl: "https://curatelearn.com/"),
     RecentWork(
-      title: "SyncWell - Realtime health tracking",
-      imagePath: "assets/images/2.png",
-    ),
+        title: "Brivas - Bulk Sms Application",
+        imagePath: "assets/images/2.png",
+        playStoreUrl: "brivas.io",
+        appStoreUrl: "brivas.io"),
     RecentWork(
       title: "Urkido - Bus tracking",
       imagePath: "assets/images/3.png",
