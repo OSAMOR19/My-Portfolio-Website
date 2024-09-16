@@ -100,7 +100,7 @@ class _AnimatedNavWrapperState extends State<AnimatedNavWrapper> {
                         },
                         child: Text.rich(
                           TextSpan(
-                            text: "MH",
+                            text: "zk",
                             style: Theme.of(context)
                                 .textTheme
                                 .titleLarge
