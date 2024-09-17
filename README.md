@@ -4,7 +4,8 @@ My Personal Portfolio website crafted with Flutter 💜
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-![Project Thumbnail](assets/images/project-thumnail.png)
+
+![myportfoliowebexample](https://github.com/user-attachments/assets/72d2fb99-83ef-4b03-a5ac-efdad90bb261)
 
 ## 📑 Overview
 
